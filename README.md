@@ -18,6 +18,7 @@ Gained hands-on experience with Cisco IOS command-line interface (CLI) for confi
 This project models a typical enterprise network where departments are segmented using VLANs to enhance security, reduce broadcast traffic, and improve overall network performance. Such configurations are widely implemented in corporate environments to enforce logical separation of organizational units while maintaining a shared physical infrastructure.
 
 
-<img width="837" height="737" alt="TOPOLOGY " src="https://github.com/user-attachments/assets/1fba8b2b-5fd8-4433-811a-2f91b2d7f422" />
+<img width="881" height="751" alt="TOPOLOGY" src="https://github.com/user-attachments/assets/126c4a37-dcb7-44cd-889b-4ecb852a5e2b" />
+
 
 <img width="715" height="712" alt="SHOW VLANS " src="https://github.com/user-attachments/assets/8e53e8ed-bb48-40b0-bf02-22f07edc49f9" />
